@@ -1,0 +1,9 @@
+Poin-poin :
+
+- buat bikin app react baru : buka folder, buka terminal, ketik 'create-react-app'.
+- React component itu kaya komponen di figma, jadi satu block di UI yang bisa dipake berulang
+- buat bikin react component yaitu dengan bikin function, ada 3 function : normal function ( yg misal -> function ezra() {isi function}  ),
+ada juga arrow function misal : const ezra = () => {isi fungsi}
+
+- Jadi di react itu kalo mau bikin dua elemen misal di conditional atau pake ternary, itu kita harus bungkus elemen2 jsx nya pake 
+react fragment, contohnya : <> (elemen2) </>
